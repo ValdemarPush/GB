@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.title {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: 75px;
+    background: #222222;
+    
+}
+.title-search {
+    margin-left: 230px;
+}
+.title-shope {
+    margin-right: 240px;
+}
+.general {
+    display: flex;
+    width: 100%;
+    height: 764px;
+    background: #F1E4E6;
+}
+.general-images {
+    height: 800px;
+}
+.general-text {
+
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.general-text-fat{
+    font-size: 48px;
+}
+.general-text-two {
+    font-size: 48px;
+}
+.general-text-pink {
+    font-size: 48px;
+}
